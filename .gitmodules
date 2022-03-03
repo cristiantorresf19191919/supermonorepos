@@ -1,0 +1,6 @@
+[submodule "src/zustand-todo-example"]
+	path = src/zustand-todo-example
+	url = https://github.com/cristiantorresf19191919/zustand-todo-example.git
+[submodule "src/react-dark-mode"]
+	path = src/react-dark-mode
+	url = https://github.com/alexeagleson/react-dark-mode
